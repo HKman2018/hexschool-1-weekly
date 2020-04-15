@@ -236,12 +236,16 @@ header img{
   padding-top: 24px;
   color: #FFFFFF;
   border-bottom: 1px solid#FFFFFF;
+  margin-bottom: 32px;
 }
 .footer-title h2 span{
   color: #FFFFFF;
 }
 .footer-title p{
   color: #FFFFFF;
+}
+.contacts-body{
+  padding-top: 0;
 }
 .contacts-body li{
  padding-bottom: 16px;
